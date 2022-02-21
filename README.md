@@ -1,4 +1,6 @@
-# 👏 Nikita Luhauskikh #
+# 👏 Hello, I'm Nikita Luhauskikh #
+
+## I'm Junior Front-end Developer
 
 ## ☎️ My Contacts: ##
 * **Phone Number:** +375(44)736-07-46
