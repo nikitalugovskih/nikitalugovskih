@@ -27,19 +27,9 @@ Hi all! My name is Nikita and I am 23 years old. I have been working on a game s
   * JavaScript Basics.
   * Scrum, Kanban.
 
-## Code example: ##
-  __Peak array index KATA from CODEWARS:__
-```javascript
-  function solution(number){
-    let counter = 0
-    for(let i = 3; i < number; i++) {
-        if(i % 3 === 0 || i % 5 === 0) {
-            counter += i
-        }
-    }
-    return counter
-  }
-  ```
+## Code Wars ##
+(https://www.codewars.com/users/nikitalugovskih/badges/large)
+
 ## Education/Courses: ##
 1. Vitebsk State Academy of Veterinary Medicine, Vitebsk. Veterinary Medicine, Medicine (2015 - 2017).
 2. Sakharov International State Institute. A.D. Sakharov BSU. Ecological Medicine, Expert Ecologist (2018 - 2021).
