@@ -27,7 +27,7 @@ Hi all! My name is Nikita and I am 23 years old. I have been working on a game s
   * JavaScript Basics.
   * Scrum, Kanban.
 
-## Code Wars ##
+## 🔍 Code Wars ##
 ![CodeWars](https://www.codewars.com/users/nikitalugovskih/badges/large)
 
 ## 📃 Education/Courses: ##
