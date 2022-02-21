@@ -24,6 +24,7 @@ Hi all! My name is Nikita and I am 23 years old. I have been working on a game s
 ## 🔧 My Skills: ##
   * Git, GitHub.
   * HTML5, CSS.
+  * SASS / SCSS
   * JavaScript Basics.
   * Scrum, Kanban.
 
