@@ -3,11 +3,11 @@
 ## I'm Junior Front-end Developer
 
 ## ☎️ My Contacts: ##
-* **Phone Number:** +375(44)736-07-46
+* **Location:** Minsk, Belarus
 * **E-mail:** mikitalugovskih@gmail.com
 * **Telegram:** @antaetida
-* [GitHub](https://github.com/nikitalugovskih)
-* [LinkedIn](https://www.linkedin.com/in/nikita-luhauskikh-649034223/)
+* **GitHub:** [nikitalugovskih](https://github.com/nikitalugovskih)
+* **LinkedIn:** [Nikita Luhauskikh](https://www.linkedin.com/in/nikita-luhauskikh-649034223/)
 
 ## ✨ About Myself: ##
 Hi all! My name is Nikita and I am 23 years old. I have been working on a game server since I was 16 years old, taking the position of LEAD administrator. These 6 years of work I have done the following:
