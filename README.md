@@ -28,7 +28,7 @@ Hi all! My name is Nikita and I am 23 years old. I have been working on a game s
   * Scrum, Kanban.
 
 ## Code Wars ##
-[!](https://www.codewars.com/users/nikitalugovskih/badges/large)
+![CodeWars](https://www.codewars.com/users/nikitalugovskih/badges/large)
 
 ## Education/Courses: ##
 1. Vitebsk State Academy of Veterinary Medicine, Vitebsk. Veterinary Medicine, Medicine (2015 - 2017).
