@@ -3,7 +3,6 @@
 ## ✨ I'm Junior Front-end Developer
 
 ## ☎️ My Contacts: ##
-* **Location:** Minsk, Belarus
 * **E-mail:** mikitalugovskih@gmail.com
 * **Telegram:** @antaetida
 * **GitHub:** [nikitalugovskih](https://github.com/nikitalugovskih)
